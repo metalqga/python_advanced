@@ -1,0 +1,16 @@
+.aaa
+- - - text.aaa
+.py
+- - - directory_traversal.py
+- - - directory_traversal1.py
+.txt
+- - - test1.txt
+- - - test3.txt
+- - - test2.txt
+- - - test5.txt
+- - - test1.txt
+- - - test4.txt
+- - - test3.txt
+- - - test2.txt
+.zzz
+- - - text.zzz
